@@ -1,5 +1,5 @@
-import java.util.Scanner;
 import java.util.Random;
+import java.util.Scanner;
 
 public class Main{
     public static void main(String[] args) {
@@ -42,8 +42,9 @@ public class Main{
                                 break;
                             default:
                                 System.out.println("Error, ingrese una opción válida");
-                        }
+                            }
                         
+                        }
                     }
                     break;
 
