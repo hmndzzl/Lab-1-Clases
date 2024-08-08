@@ -44,7 +44,7 @@ public class Jugador{
 
     //Métodos
     public void drawCard(){
-        this.mano += random.nextInt(10);
+        this.mano += (random.nextInt(9) + 1);
     }
 
 }
