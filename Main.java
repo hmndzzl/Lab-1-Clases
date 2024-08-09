@@ -1,3 +1,12 @@
+//
+// Programación orientada a objetos
+// Sección 20
+// Laboratorio #1
+// 
+// Hugo Méndez - 241265
+//
+
+
 // Importar las librias necesarias 
 import java.util.Random;
 import java.util.Scanner;
